@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/neural_net.dir/link.d CMakeFiles/neural_net.dir/src/main.c.o CMakeFiles/neural_net.dir/src/neuron.c.o CMakeFiles/neural_net.dir/src/neural_layer.c.o CMakeFiles/neural_net.dir/src/neural_net.c.o -o neural_net  -lm

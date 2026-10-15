@@ -1,3 +1,0 @@
-/home/sbe/Проекты/ОВС/lab1/build/CMakeFiles/neural_net.dir
-/home/sbe/Проекты/ОВС/lab1/build/CMakeFiles/edit_cache.dir
-/home/sbe/Проекты/ОВС/lab1/build/CMakeFiles/rebuild_cache.dir
